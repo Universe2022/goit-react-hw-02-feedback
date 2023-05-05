@@ -1,0 +1,26 @@
+.good {
+    text-transform: capitalize;
+    margin: 0;
+    width: 200px;
+    padding: 16px;
+    display: block;
+    background-color: green;
+}
+
+.neutral {
+    text-transform: capitalize;
+    margin: 0;
+    width: 200px;
+    padding: 16px;
+    display: block;
+    background-color:orange
+}
+
+.bad {
+    text-transform: capitalize;
+    margin: 0;
+    width: 200px;
+    padding: 16px;
+    display: block;
+    background-color: red;
+}
